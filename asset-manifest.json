@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CV_React/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/CV_React/static/js/main.fa37d0e5.chunk.js",
+    "main.js.map": "/CV_React/static/js/main.fa37d0e5.chunk.js.map",
+    "runtime-main.js": "/CV_React/static/js/runtime-main.3ebbda79.js",
+    "runtime-main.js.map": "/CV_React/static/js/runtime-main.3ebbda79.js.map",
+    "static/css/2.344adcb0.chunk.css": "/CV_React/static/css/2.344adcb0.chunk.css",
+    "static/js/2.9bc0d92b.chunk.js": "/CV_React/static/js/2.9bc0d92b.chunk.js",
+    "static/js/2.9bc0d92b.chunk.js.map": "/CV_React/static/js/2.9bc0d92b.chunk.js.map",
+    "static/js/3.9df35005.chunk.js": "/CV_React/static/js/3.9df35005.chunk.js",
+    "static/js/3.9df35005.chunk.js.map": "/CV_React/static/js/3.9df35005.chunk.js.map",
+    "index.html": "/CV_React/index.html",
+    "static/css/2.344adcb0.chunk.css.map": "/CV_React/static/css/2.344adcb0.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/CV_React/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9bc0d92b.chunk.js.LICENSE.txt": "/CV_React/static/js/2.9bc0d92b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ebbda79.js",
+    "static/css/2.344adcb0.chunk.css",
+    "static/js/2.9bc0d92b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fa37d0e5.chunk.js"
+  ]
+}
